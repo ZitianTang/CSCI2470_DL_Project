@@ -9,7 +9,7 @@ This repository is created solely for code review purposes in the Deep Learning 
 
 [scripts](./scripts) includes the training scripts of our model.
 Because we employ a modality-by-modality fusion strategy, unimodal training must be executed before multimodal training.
-For example, to develop a caption+box model on CLEVRER, one should first run `scripts/clevrer_cap.sh` and then run `scripts/levrer_cap_box_resume.sh`.
+For example, to develop a caption+box model on CLEVRER, one should first run `scripts/clevrer_cap.sh` and then run `scripts/clevrer_cap_box_resume.sh`.
 
 ## Acknowledgements
 
