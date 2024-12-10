@@ -1,0 +1,3 @@
+*.pth
+data/star/STAR_train.json
+data/star/STAR_val.json
