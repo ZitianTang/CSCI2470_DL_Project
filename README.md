@@ -1,4 +1,4 @@
-# CSCI2470 Deel Learning Project
+# CSCI2470 Deep Learning Project
 # How Can Objects Help Video-Language Understanding?
 
 ```
